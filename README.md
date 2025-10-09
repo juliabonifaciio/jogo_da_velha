@@ -1,6 +1,7 @@
 # 🎮 Jogo da Velha em Python
 
 ## 👩‍💻 Integrantes
+- Alexandre Silva Alves – RM567415
 - Gabriella Mostafa Garcia – RM568508  
 - Mariana Pergentino Fonseca – RM568252  
 - Julia Marcela de Faria Bonifacio – RM566673  
